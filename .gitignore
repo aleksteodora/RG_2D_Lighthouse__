@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+bin/
+obj/
+
+# NuGet
+packages/
