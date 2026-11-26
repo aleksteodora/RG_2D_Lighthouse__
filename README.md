@@ -1,4 +1,10 @@
-﻿# Lighthouse 2D OpenGL Scene
+﻿![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-3.3-5586A4)
+![GLSL](https://img.shields.io/badge/Shaders-GLSL-5586A4)
+![GLFW](https://img.shields.io/badge/GLFW-3-orange)
+![GLEW](https://img.shields.io/badge/GLEW-2-blue)
+
+# Lighthouse 2D OpenGL Scene
 
 A 2D interactive scene of a lighthouse during a storm, written in C++ with
 OpenGL 3.3 (core profile), GLFW and GLEW.
@@ -6,6 +12,22 @@ OpenGL 3.3 (core profile), GLFW and GLEW.
 A rotating light beam guides a ship towards the harbour. When the storm hits,
 the main power flickers and fails, and the player has to switch on the backup
 battery and ration its charge until dawn.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="400"></td>
+    <td><img src="screenshots/2.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/3.png" width="400"></td>
+    <td><img src="screenshots/4.png" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="screenshots/5.png" width="400"></td>
+  </tr>
+</table>
 
 ## Features
 
